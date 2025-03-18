@@ -48,7 +48,7 @@ and field activities. Don't mention the visiting date in the paragraphs. Follow 
 
 1. Please describe the plan of action for today’s field visit. (Include objectives, goals, and the purpose of your visit.)
 2. Please describe the activities carried out to complete the action plan. (Outline the work done during the field visit.)
-3. What did you observe today that you would like to implement in your next field visit?
+3. What would you implement in your next field visit?
 4. What are the key learning outcomes from this field visit? (Highlight the lessons learned from the experience.)
 
 Here is a summary of the previous report:
