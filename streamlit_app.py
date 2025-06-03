@@ -89,7 +89,7 @@ def cached_summarize_pdf_text(pdf_text: str) -> str:
     docs = [Document(page_content=chunk) for chunk in chunks]
     summarize_chain = load_summarize_chain(
         ChatGoogleGenerativeAI(
-            model="gemini-1.5-flash-8b",
+            model="gemini-2.0-flash",
             temperature=0.3,
             max_tokens=4000
         ), 
